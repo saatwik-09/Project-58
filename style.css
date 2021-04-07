@@ -10,10 +10,15 @@ body {
 }
 .line {
   background-color: black;
+    height: 7px;
+    width: 70px;
+    margin: 8px auto;
+    
     
 }
 .firstsection {
   background: linear-gradient(red 0%, yellow 100%);
+    padding-top: 30px;
 }
 .secondsection {
    background: linear-gradient(#1E88E5 0%, yellow 100%);
